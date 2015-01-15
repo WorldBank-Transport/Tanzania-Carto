@@ -1,0 +1,33 @@
+_prefs: 
+  baselayer: ''
+  mapid: markiliffe.551ae569
+  saveCenter: true
+_properties: {}
+attribution: ''
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 39.267
+  - -6.8139
+  - 17
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 19
+minzoom: 0
+name: Tanzania
+source: "mapbox:///markiliffe.lgtmokee,markiliffe.sksv88o5,markiliffe.0xutevnt,markiliffe.gnytsf3l,markiliffe.6zvq999q,markiliffe.lgtmokee,markiliffe.ev9uivth,mapbox.mapbox-terrain-v1,mapbox.mapbox-streets-v5,markiliffe.w15z5yii,markiliffe.b2uzh4x8"
+styles: 
+  - style.mss
+  - roads.mss
+  - terrain.mss
+  - labels.mss
+  - schools.mss
+  - buildings.mss
+  - palette.mss
+  - BRT.mss
+template: ''
